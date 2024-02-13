@@ -1,3 +1,25 @@
 *{
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
+.bg-brand{
+    background-color:#fafafa;
+}
+.video-post{
+    height: 250px;
+}
+.hover-text:hover{
+    text-decoration: underline ;
+}
+.blog-img{
+    width: 380px;
+    height: auto;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.text-brand_light{
+    color: #71728a;
+}
+
+
+
