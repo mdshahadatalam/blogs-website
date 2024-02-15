@@ -20,6 +20,13 @@
 .text-brand_light{
     color: #71728a;
 }
+.gril-imag{
+    width: 650pxpx;
+    height: auto;
+}
+img:hover{
+    filter: brightness(0.5);
+}
 
 
 
