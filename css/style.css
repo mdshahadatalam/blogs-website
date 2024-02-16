@@ -27,6 +27,18 @@
 img:hover{
     filter: brightness(0.5);
 }
+.bg-load_more{
+    background-color: #292929;
+    color: white;
+    border: none;
+    text-transform:uppercase;
+    
+}
+.bg-load_more:hover{
+    background-color:#d7cfb8;
+    color: #292929;
+    cursor: pointer;
+}
 
 
 
