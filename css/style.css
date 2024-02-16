@@ -39,6 +39,32 @@ img:hover{
     color: #292929;
     cursor: pointer;
 }
+.learn-more{
+    border: none;
+    background-color: #292929;
+    color: white;
+    border-radius: 15px;
+}
+.bg-img{
+    background-color:#71728a;
+}
+.learn-more:hover ,.buy-load:hover{
+    background-color: #fafafa;
+    color: #292929;
 
-
-
+}
+.buy-load{
+    background-color:#292929;
+    color: white;
+    border-radius: 15px;
+    
+}
+input{
+    border: none;
+    width: 250px;
+    height: 40px;
+    background-color:white;
+}
+input:hover{
+    background-color: #d7cfb8;
+}
